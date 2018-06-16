@@ -11,6 +11,4 @@ Opções do menu:
 5 - Relatório: No relatório é possivel saber o valor total que deu entrada na loja proveniente dos alugueis.
 0 - Sair.
 
-Projeto de um estudante iniciando dando os primeiros passos nessa area gigantesca da Tecnologia da Informação.
-
 Nota: Omega Aluguel De Veiculos é um nome ficticio apenas para fazer o teste do programa, assim podendo ser alterado por outro nome.
